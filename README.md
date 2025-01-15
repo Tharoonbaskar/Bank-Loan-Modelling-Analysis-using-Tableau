@@ -77,3 +77,15 @@ Mostly Bar Graph is used to express the factors affecting the Personal Loan.
 
 ❖ PERSONAL LOAN Vs MORTGAGE:
 - Most of the customers do not have any mortgage. However, customers whose mortgage amount $200K and up has higher chances of getting personal loan.
+
+# Project Conclusion:
+
+❖	From the analysis the likelihood of a liability customer buying personal loans is predicted.
+
+❖	This analysis will help the company to spend marketing money on the right customers rather than spending it advertising to customers who have higher chances of not taking personal loan.
+
+# Project Recommendation:
+
+❖	Customers who have Higher income, have three or more family size and higher monthly credit card average spending have higher chances of taking personal loan. Therefore, the bank should focus more on those customers.
+
+❖	Most of the customers who have CD account with the bank & use internet banking facilities are more likely to take personal loan.
